@@ -1,0 +1,14 @@
+.buzzer {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#wrong {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#correct {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
